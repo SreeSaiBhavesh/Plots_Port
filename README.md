@@ -1,5 +1,5 @@
 # Plots Port
-A place where most of the plots can be visualized in one place for different dataset types, with three different data creation methods
+A place where most of the plots can be visualized for different dataset types, with three different data creation methods
 <h1>Features</h1>
 <ol>
 <li>Data Creation</li>
@@ -14,8 +14,9 @@ A place where most of the plots can be visualized in one place for different dat
   <li>Specific Columns</li>
   For One column Selection Various Plots available are: <ul><li>Scatter Plot</li>
   <li>Bar Plots</li><li>Line Plot</li><li>Box Plot</li><li>Histogram</li></ul>
-  For Two and Three column Selection Various Plots available are: <ul><li>Scatter Plot</li>
+  For more column Selection Various Plots available are: <ul><li>Scatter Plot</li>
   <li>Bar Plots</li><li>Line Plot</li><li>Box Plot</li><li>Surface Plot</li><li>Histogram</li>
-  <li>Bubble Plot</li></ul>
+  <li>Bubble Plot (For 2 and 3 column selection only)</li></ul>
+  
   
     
